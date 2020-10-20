@@ -1,5 +1,5 @@
 public class duck{
-  public fly() {
-    system.out.println("A duck can flyss")
+  public swim() {
+    system.out.println("A duck can swim")
   }
 }
